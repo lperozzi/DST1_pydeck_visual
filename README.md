@@ -67,7 +67,7 @@ your system: https://docs.anaconda.com/anaconda/install/
 1. Create a new kernel for this environment environment: `ipython kernel install --user --name=DST-geothermal-visual`
 1. Start the JupyterLab server: `jupyter lab`
 1. Jupyter should open in your default web browser. We'll start from here in the
-   tutorial.
+   tutorial. Update
    
    
 <div style="text-align: left; margin-bottom: 100px;">
