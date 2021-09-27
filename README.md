@@ -7,7 +7,7 @@
 <p style="text-align: center; margin-bottom: 20px;">
    <a href="https://www.unige.ch/ge-rgba/welcome/">GE-RGBA Group, Departement of Earth Science, University of Geneva</a>
 </p>
-<div align="center" style="margin-bottom: 20px;">
+<div style="text-align: left;margin-bottom: 20px;">
     <img src="src/logo.png" style="height: 70px">
 </div>
 
@@ -67,7 +67,7 @@ your system: https://docs.anaconda.com/anaconda/install/
 1. Create a new kernel for this environment environment: `ipython kernel install --user --name=DST-geothermal-visual`
 1. Start the JupyterLab server: `jupyter lab`
 1. Jupyter should open in your default web browser. We'll start from here in the
-   tutorial. Update
+   tutorial. 
    
    
 <div style="text-align: left; margin-bottom: 100px;">
