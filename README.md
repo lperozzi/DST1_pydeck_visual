@@ -20,7 +20,7 @@ During this tutorial, it will be shown how to use python to process and visualiz
 - Load the geothermal probes dataset.
 - Convert CRS coordinate system with **pyproj**
 - Extract depth information form attributes
-- Visualising the results with **pydeck**
+- Visualizing the results with **pydeck**
 
 |         | Info |
 |--------:|:-----|
