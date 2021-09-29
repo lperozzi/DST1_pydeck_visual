@@ -51,7 +51,7 @@ your system: https://docs.anaconda.com/anaconda/install/
 **Create the `DST-geothermal-visual` conda environment:**
 
 1. Download the `environment.yml` file from
-   [here](https://raw.githubusercontent.com/fatiando/transform21/master/environment.yml)
+   [here](https://github.com/geoenergy/DST1_pydeck_visual/blob/master/environment.yml)
    (right-click and select "Save page as" or similar)
 1. Make sure that the file is called `environment.yml`. Windows sometimes adds a
    `.txt` to the end, which you should remove.
