@@ -64,6 +64,7 @@ your system: https://docs.anaconda.com/anaconda/install/
 1. Start the JupyterLab server: `jupyter lab`
 1. Jupyter should open in your default web browser. We'll start from here in the
    tutorial and create a new notebook together.
+   1. Feel free to open an issue if you have some problem during the installation or during the tutorial.
    
    
 <div style="text-align: left; margin-bottom: 100px;">
