@@ -50,8 +50,7 @@ your system: https://docs.anaconda.com/anaconda/install/
 
 **Create the `DST-geothermal-visual` conda environment:**
 
-1. Clone the repository from
-   [here](https://github.com/geoenergy/DST1_pydeck_visual)
+1. Clone this repository
 1. Open a terminal (*Anaconda Prompt* if you are running Windows). The
    following steps should be done in the terminal.
 1. Navigate to the folder that has been cloned
