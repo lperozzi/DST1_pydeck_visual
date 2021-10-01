@@ -26,7 +26,7 @@ During this tutorial, it will be shown how to use python to process and visualiz
 |--------:|:-----|
 | When | Friday, October 1st • 12:30 - 13:00  |
 | Live stream | Registration mandatory - [Under this link](https://formulaire.unige.ch/outils/limesurvey3/index.php/268393?lang=fr) |
-| conda environment  | `DST-geothermal-visual` |
+| ~~conda environment  | `DST-geothermal-visual`~~ |
 | Documentation | [deck.gl](https://deck.gl/) |
 
 
@@ -48,7 +48,7 @@ your system: https://docs.anaconda.com/anaconda/install/
 
 ### Step 2
 
-**Create the `DST-geothermal-visual` conda environment:**
+~~**Create the `DST-geothermal-visual` conda environment:**~~
 
 1. Clone this repository
 1. Open a terminal (*Anaconda Prompt* if you are running Windows). The
@@ -62,8 +62,7 @@ your system: https://docs.anaconda.com/anaconda/install/
 1. ~~Activate the conda environment: `conda activate DST-geothermal-visual`~~
 1. ~~Create a new kernel for this environment environment: `ipython kernel install --user --name=DST-geothermal-visual`~~
 1. Start the JupyterLab server: `jupyter lab`
-
-1. Start a new terminal from `jupyter lab`  
+1. Start a new terminal 
 ![](src/terminal1.png)
 ![](src/terminal2.png)
 1. Type the following command inside the terminal: `pip install pandas numpy matplotlib pydeck pyproj`
