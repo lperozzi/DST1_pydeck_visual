@@ -56,15 +56,19 @@ your system: https://docs.anaconda.com/anaconda/install/
 1. Navigate to the folder that has been cloned
    (if you don't know how to do this, take a moment to read [the Software
    Carpentry lesson on the Unix shell](http://swcarpentry.github.io/shell-novice/)).
-1. Create the conda environment by running `conda env create -f environment.yml`
-   (this will download and install all of the packages used in the tutorial).
+1. ~~Create the conda environment by running `conda env create -f environment.yml`
+   (this will download and install all of the packages used in the tutorial).~~  
 1. **Windows users:** Make sure you set a default browser that is **not Internet Explorer**.
-1. Activate the conda environment: `conda activate DST-geothermal-visual`
-1. Create a new kernel for this environment environment: `ipython kernel install --user --name=DST-geothermal-visual`
+1. ~~Activate the conda environment: `conda activate DST-geothermal-visual`~~
+1. ~~Create a new kernel for this environment environment: `ipython kernel install --user --name=DST-geothermal-visual`~~
 1. Start the JupyterLab server: `jupyter lab`
-1. Jupyter should open in your default web browser. We'll start from here in the
-   tutorial and create a new notebook together.
-   1. Feel free to open an issue if you have some problem during the installation or during the tutorial.
+
+1. Start a new terminal from `jupyter lab`  
+![](src/terminal1.png)
+![](src/terminal2.png)
+1. Type the following command inside the terminal: `pip install pandas numpy matplotlib pydeck pyproj`
+1. Open the `Visual analyisis of geothermal probes with pydeck.ipynb` to follow the tutorial or a new fresh Notebook if you want to start form scratch.  
+1. Feel free to open an issue if you have some problem during the installation or during the tutorial.
    
    
 <div style="text-align: left; margin-bottom: 100px;">
