@@ -67,7 +67,9 @@ your system: https://docs.anaconda.com/anaconda/install/
 1. Open the `Visual analyisis of geothermal probes with pydeck.ipynb` to follow the tutorial or a new fresh Notebook if you want to start form scratch. Be sure the kernel is set to `DST-geothermal-visual`; 
 1. Feel free to open an issue if you have some problem during the installation or during the tutorial.
    
-   
+
+A blog post about this tutorial can be found <a href="https://www.geomaap.io/blog/visualization/DST-viz-pydeck" target="_blank">here.</a>
+
 <div style="text-align: left; margin-bottom: 100px;">
 
  </div>
